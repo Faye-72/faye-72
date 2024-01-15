@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Faith, a front-end sofware developer with an eye for designs that *pop*!
 
 <!--
 **Faye-72/faye-72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
