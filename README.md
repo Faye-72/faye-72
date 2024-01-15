@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Faith, a front-end sofware developer with an eye for designs that **pop**!
+I am Faith, a front-end sofware developer with an eye for designs that ==pop==!
 
 ```
 {
