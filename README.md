@@ -24,7 +24,7 @@ I'm Faith — a Frontend Developer with a passion for crafting beautiful, scalab
 
 -------------------
 
-👩‍💻 Tech Stack & Tools 🛠️
+### 👩‍💻 Tech Stack & Tools 🛠️
 
  
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a> <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Ruby on Rails" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -33,13 +33,15 @@ I'm Faith — a Frontend Developer with a passion for crafting beautiful, scalab
 
 
 -------------------
-## 🚀 Featured Project
+
+### 🚀 Featured Project
 
 - 📅 **Medical App Scheduler** — Built with Next.js + Appwrite for appointment booking and user auth.  
   _More projects coming soon — currently refining and deploying!_  
   `Next.js` `TypeScript` `Appwrite`
 
 
+-------------------
 
 
 <!--
