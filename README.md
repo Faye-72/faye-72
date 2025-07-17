@@ -33,6 +33,13 @@ I'm Faith — a Frontend Developer with a passion for crafting beautiful, scalab
 
 
 -------------------
+## 🚀 Featured Project
+
+- 📅 **Medical App Scheduler** — Built with Next.js + Appwrite for appointment booking and user auth.  
+  _More projects coming soon — currently refining and deploying!_  
+  `Next.js` `TypeScript` `Appwrite`
+
+
 
 
 <!--
